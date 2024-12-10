@@ -1,2 +1,2 @@
 npm install
-node server
+node server &
